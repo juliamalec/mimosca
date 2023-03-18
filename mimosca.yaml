@@ -3,18 +3,18 @@ name: mimoscaENV
 channels: 
   - default
   - conda-forge
-  - pypi
+  - bioconda
 
 dependencies: 
-  - python=3.7.12
-  - pandas=1.3.5 
-  - numpy=1.21.6
-  - matplotlib=3.5.1
-  - seaborn=0.9.0
-  - scipy=1.6.2
-  - sklearn=1.0.2
-  - statsmodels=0.13.5
+  - python=2.7.18
+  - pandas=0.20.3
+  - numpy=1.16.6
+  - matplotlib=
+  - seaborn=
+  - scipy=1.2.1
+  - sklearn=
+  - statsmodels=0.10.1
   - fbpca=1.0
-  - networkx=2.6.3
-  - goatools=1.2.3
+  - networkx=
+  - goatools=0.7.11
 
